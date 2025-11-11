@@ -65,14 +65,6 @@ Gue adalah seorang developer muda yang passionate dalam menciptakan solusi digit
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/GHANI-BLL/GHANI-BLL/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 ## 🎯 Current Goals 2025
 
 - 🔥 Master Laravel & Vue.js ecosystem
