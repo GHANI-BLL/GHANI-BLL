@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/393a175d-92e9-4801-96ba-6362a3f33216" />## Hi there 👋
 # Hi there, I'm Ghani 👋
 
 🎓 I'm a student at **SMK TI Airlangga Samarinda**  
